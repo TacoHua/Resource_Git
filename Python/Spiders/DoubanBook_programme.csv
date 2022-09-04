@@ -1,0 +1,318 @@
+1,AdvancedProgrammingintheUNIX(R)Environment(2ndEdition),W.RichardStevens、StephenA.Rago, Addison-Wesley Professional ,https://book.douban.com/subject/1439495/,"
+9.8",121,"
+内容简介:
+""Stephen Rago's update is a long overdue benefit to the community of professionals using the versatile family of UNIX and UNIX-like operating environments. It removes obsolescence and includes newer developments. It also thoroughly updates the context of all topics, examples, and applications to recent releases of popular implementations of UNIX and UNIX-like environments. And ...(展开全部)"
+2,UNIX环境高级编程（第3版）,史蒂文斯(W.RichardStevens)、拉戈(StephenA.Rago), 人民邮电出版社 ,https://book.douban.com/subject/25900403/,"
+9.8",496,"
+内容简介:
+《UNIX环境高级编程（第3版）》是被誉为UNIX编程“圣经”的Advanced Programming in the UNIX Environment一书的第3版。在本书第2版出版后的8年中，UNIX行业发生了巨大的变化，特别是影响UNIX编程接口的有关标准变化很大。本书在保持前一版风格的基础上，根据最新的标准对内容进行了修订和增补，反映了最新的技术发展。书中除了介绍UNIX文件和目录、标准I/O库、系统数据文件和信息、进程环境、进程控制、进程关系、信号、线程、线程控制、守护进程、各种I/O、进程间通信、网络IPC、伪终端等方面的内容，还在此基础上介绍了众多应用实例，包括如何创建数据库函数库以及如何与网络打印机通信等。此外，还在附录中给出了函数原型和部分习题的答案。 《UNIX环境高级编程（第3版）》内容权威，概念清晰，阐述精辟，对于所有层次UNI...(展开全部)"
+3,深入理解计算机系统（英文版·第3版）,[美]RandalE.Bryant、[美]DavidR.O'Hallaron, 机械工业出版社 ,https://book.douban.com/subject/27000879/,"
+9.8",114,"
+内容简介:
+本书是一本将计算机软件和硬件理论结合讲述的经典教材，内容涵盖计算机导论、体系结构和处理器设计等多门课程。本书*大的特点是为程序员描述计算机系统的实现细节，通过描述程序是如何映射到系统上，以及程序是如何执行的，使读者更好地理解程序的行为，找到程序效率低下的原因。 和第二版相比，本版内容上最大的变化是，从以IA32和x86-64为基础转变为完全以x86-64为基础。主要更新如下： · 基于x86-64，大量地重写代码，首次介绍对处理浮点数据的程序的机器级支持。 · 处理器体系结构修改为支持64位字和操作的设计。 · 引入更多的功能单元和更复杂的控制逻辑，使基于程序数据流表示的程序性能模型预测更加可靠。 · 扩充关于用GOT和PLT创建与位置无关代码的讨论，描述了更加强大的链接技术（比如库打桩）。 · 增加了对信号处理程序更细致的描述，包括异步信号安全的函...(展开全部)"
+4,深入理解计算机系统（原书第2版）,[美]RandalE.Bryant、[美]DavidO'Hallaron, 机械工业出版社 ,https://book.douban.com/subject/5333562/,"
+9.7",2980,"
+内容简介:
+本书从程序员的视角详细阐述计算机系统的本质概念，并展示这些概念如何实实在在地影响应用程序的正确性、性能和实用性。全书共12章，主要内容包括信息的表示和处理、程序的机器级表示、处理器体系结构、优化程序性能、存储器层次结构、链接、异常控制流、虚拟存储器、系统级I/O、网络编程、并发编程等。书中提供大量的例子和练习，并给出部分答案，有助于读者加深对正文所述概念和知识的理解。 本书的最大优点是为程序员描述计算机系统的实现细节，帮助其在大脑中构造一个层次型的计算机系统，从最底层的数据在内存中的表示到流水线指令的构成，到虚拟存储器，到编译系统，到动态加载库，到最后的用户态应用。通过掌握程序是如何映射到系统上，以及程序是如何执行的，读者能够更好地理解程序的行为为什么是这样的，以及效率低下是如何造成的。 本书适合那些想要写出更快、更可靠程序的程序员阅读，也适合作为高...(展开全部)"
+5,EffectiveJava:3rdEdition,JoshuaBloch, Addison-Wesley Professional ,https://book.douban.com/subject/27047716/,"
+9.7",188,"
+内容简介:
+The Definitive Guide to Java Platform Best Practices—Updated for Java 9  Java has changed dramatically since the previous edition of Effective Java was published shortly after the release of Java 6. This Jolt award-winning classic has now been thoroughly updated to take full advantage of the latest language and library features. The support in modern Java for multiple paradigms...(展开全部)"
+6,汇编语言（第4版）,王爽, 清华大学出版社 ,https://book.douban.com/subject/35038473/,"
+9.7",121,"
+内容简介:
+汇编语言是各种CPU提供的机器指令的助记符的集合，人们可以用汇编语言直接控制硬件系统进行工作。汇编语言是很多相关课程(如数据结构、操作系统、微机原理等)的重要基础。为了更好地引导、帮助读者学习汇编语言，作者以循序渐进的思想精心创作了这本书。《汇编语言（第4版）》具有如下特点：采用了全新的结构对课程的内容进行组织，对知识进行z小化分割，为读者构造了循序渐进的学习线索；在深入本质的层面上对汇编语言进行讲解；对关键环节进行深入的剖析。 《汇编语言（第4版）》可用作大学计算机专业本科生的汇编语言教材及希望深入学习计算机科学的读者的自学教材。"
+7,StructureandInterpretationofComputerPrograms-2ndEdition(MIT),HaroldAbelson、GeraldJaySussman、JulieSussman, The MIT Press ,https://book.douban.com/subject/1451622/,"
+9.6",744,"
+内容简介:
+Structure and Interpretation of Computer Programs has had a dramatic impact on computer science curricula over the past decade. This long-awaited revision contains changes throughout the text. There are new implementations of most of the major programming systems in the book, including the interpreters and compilers, and the authors have incorporated many small changes that ref...(展开全部)"
+8,C程序设计语言,BrianW.Kernighan、DennisM.Ritchie, 清华大学出版社 ,https://book.douban.com/subject/1230004/,"
+9.6",190,"
+内容简介:
+C程序设计语言于1978年出了第一版，此后，计算机世界经历了一场革命，C语言也有了合理的变化。1988年美国国家标准学会就C语言的主义制订出了ANSI C标准。本书第二版就是按这个标准来描述C语言的。全书八章，分别分：1.指导性绪论；2.数据类型、运算符与表达式；3.控制流；4.函数与结构；5.指针与数组；6.结构；7.输入输出；8.UNIX系统界面。书后附录为：A.参考手册；B.标准库；C.语言"
+9,C程序设计语言:(英文版·第2版),BrianW.Kernighan、DennisM.Ritchie, 机械工业出版社 ,https://book.douban.com/subject/1882483/,"
+9.6",601,"
+内容简介:
+在计算机发展的历史上，没有哪一种程序设计语言像C语言这样应用广泛。本书是C语言的设计者之一Dennis M.Ritchie和著名计算机科学家Brian W.Kernighan合著的一本介绍C语言的权威经典著作。我们现在见到的大量论述C语言程序设计的教材和专著均以此书为蓝本。本书第1版中介绍的C语言成为后来广泛使用的C语言版本——标准C的基础。人们熟知的“hello,World""程序就是由本书首次引入的。现在，这一程序已经成为众多程序设计语言入门的第一课。 第2版根据1987年制定的ANSIC标准做了适当的修订，引入了最新的语言形式，并增加了新的示例。通过简洁的描述、典型的示例，作者全面、系统、准确地讲述了C语言的各个特性以及程序设计的基本方法。对于计算机从业人员来说，本书是一本必读的程序设计语言方面的参考书。"
+10,Go程序设计语言(英文版),艾伦A.A.多诺万(AlanA.A.Donovan)、布莱恩W.柯尼汉(BrianW.Kemighan), 机械工业出版社 ,https://book.douban.com/subject/26859123/,"
+9.6",129,"
+内容简介:"
+11,GameProgrammingPatterns,RobertNystrom, Genever Benning ,https://book.douban.com/subject/26266378/,"
+9.5",109,"
+内容简介:
+The biggest challenge facing many game programmers is completing their game. Most game projects fizzle out, overwhelmed by the complexity of their own code. Game Programming Patterns tackles that exact problem. Based on years of experience in shipped AAA titles, this book collects proven patterns to untangle and optimize your game, organized as independent recipes so you can pi...(展开全部)"
+12,"FluentPython:Clear,Concise,AndEffectiveProgramming",LucianoRamalho, O'Reilly Media ,https://book.douban.com/subject/26278021/,"
+9.6",359,"
+内容简介:
+Learn how to write idiomatic, effective Python code by leveraging its best features. Python's simplicity quickly lets you become productive with it, but this often means you aren’t using everything the language has to offer. By taking you through Python’s key language features and libraries, this practical book shows you how to make your code shorter, faster, and more readable ...(展开全部)"
+13,"UnixNetworkProgramming,Volume1:TheSocketsNetworkingAPI",W.RichardStevens、BillFenner、AndrewM.Rudoff, Addison-Wesley Professional ,https://book.douban.com/subject/1756533/,"
+9.6",103,"
+内容简介:
+This is THE guide to UNIX network programming APIs. Whether you write Web servers, client/server applications, or any other network software, you need to understand networking APIS-especially sockets in greater detail than ever before. You need UNIX Network Programming, Volume 1, Third Edition. In this book, the Authors offer unprecedented, start-to-finish guidance on making th...(展开全部)"
+14,UNIX环境高级编程,W.RichardStevens, 机械工业出版社 ,https://book.douban.com/subject/1099251/,"
+9.6",117,"
+内容简介:
+    If you are an experienced C programmer with a working knowledge of UNIX, you cannot afford to be without this up-to -date tutorial on the system call interface and the most important functions found in the ANSI C library. Richard Stevens describes more than 200 system calls and functions; since he believes the best way to learn code is to read code,a brief example accompani...(展开全部)"
+15,TheCProgrammingLanguage:SecondEdition,BrianW.Kernighan、DennisM.Ritchie, Prentice Hall ,https://book.douban.com/subject/1236999/,"
+9.6",1362,"
+内容简介:
+Presents a complete guide to ANSI standard C language programming. Written by the developers of C, this new version helps readers keep up with the finalized ANSI standard for C while showing how to take advantage of C's rich set of operators, economy of expression, improved control flow, and data structures. This 2nd edition has been completely rewritten with additional example...(展开全部)"
+16,UNIX环境高级编程,W.RichardStevensStephenA.Rago、StephenA.Rago, 人民邮电出版社 ,https://book.douban.com/subject/1692629/,"
+9.6",288,"
+内容简介:
+本书是被誉为UNIX编程“圣经”的Advanced Programming in the UNIX Environment一书的更新版。在本书第一版出版后的十几年中，UNIX行业已经有了巨大的变化，特别是影响UNIX编程接口的有关标准变化很大。本书在保持了前一版的风格的基础上，根据最新的标准对内容进行了修订和增补，反映了最新的技术发展。书中除了介绍UNIX文件和目录、标准I/O库、系统数据文件和信息、进程环境、进程控制、进程关系、信号、线程、线程控制、守护进程、各种I/O、进程间通信、网络IPC、伪终端等方面的内容，还在此基础上介绍了多个应用示例，包括如何创建数据库函数库以及如何与网络打印机通信等。此外还在附录中给出了函数原型和部分习题的答案。 本书内容权威，概念清晰，阐述精辟，对于所有层次UNIX程序员都是一本不可或缺的参考书。"
+17,"TheArtofComputerProgramming,Volumes1-3BoxedSet:TAOCP",DonaldE.Knuth, Addison-Wesley Professional ,https://book.douban.com/subject/1418402/,"
+9.6",114,"
+内容简介:
+This multivolume work is widely recognized as the definitive description of classical computer science. The first three volumes have for decades been an invaluable resource in programming theory and practice for students, researchers, and practitioners alike. The bible of all fundamental algorithms and the work that taught many of today's software developers most of what they k...(展开全部)"
+18,深入理解计算机系统,RandalE.Bryant、DavidO'Hallaron, 中国电力出版社 ,https://book.douban.com/subject/1230413/,"
+9.5",2838,"
+内容简介:
+从程序员的视角，看计算机系统！ 本书适用于那些想要写出更快、更可靠程序的程序员。通过掌握程序是如何映射到系统上，以及程序是如何执行的，读者能够更好的理解程序的行为为什么是这样的，以及效率低下是如何造成的。粗略来看，计算机系统包括处理器和存储器硬件、编译器、操作系统和网络互连环境。而通过程序员的视角，读者可以清晰地明白学习计算机系统的内部工作原理会对他们今后作为计算机科学研究者和工程师的工作有进一步的帮助。它还有助于为进一步学习计算机体系结构、操作系统、编译器和网络互连做好准备。 本书的主要论题包括：数据表示、C程序的机器级表示、处理器结构，程序优化、存储器层次结构、链接、异常控制流、虚拟存储器和存储器管理、系统级I/O、网络编程和并发编程。书中所覆盖的内容主要是这些方面是如何影响应用和系统程序员的。例如，在讲述数据表示时，本书说明了用来表示数字的表示...(展开全部)"
+19,EffectiveC++:改善程序与设计的55个具体做法,[美]ScottMeyers, 电子工业出版社 ,https://book.douban.com/subject/5387403/,"
+9.5",990,"
+内容简介:
+在国际上，本书所引起的反响，波及整个计算机技术的出版领域，余音至今未绝。几乎在所有C++书籍的推荐名单上，这本书都会位于前三名。 作者高超的技术把握力、独特的视角、诙谐轻松的写作风格、独具匠心的内容组织，都受到极大的推崇和仿效。 这本书不是读完一遍就可以束之高阁的快餐读物，也不是用以解决手边问题的参考手册，而是需要你去反复阅读体会的，C++是真正程序员的语言，背后有着精深的思想与无以伦比的表达能力，这使得它具有类似宗教般的魅力。"
+20,JavaScript权威指南（原书第7版）:中文版犀牛书,[美]DavidFlanagan, 机械工业出版社 ,https://book.douban.com/subject/35396470/,"
+9.5",134,"
+内容简介:
+JavaScript是Web编程语言，也是很多软件开发者使用的编程语言。近25年来，这本畅销书一直是几十万JavaScript程序员必读的技术著作，本版已经更新到涵盖JavaScript的2020版。书中令人深思、富有启发性的示例随处可见。 这本“犀牛书”在很多工程师心目中有着至高无上的地位。如果你由于种种原因错过了它之前的版本，那一定不要再错过这一版了！ 本书介绍JavaScript语言和由浏览器与Node实现的JavaScript API。本书适合有一定编程经验、想学习JavaScript读者，也适合已经在使用JavaScript但希望更深入地理解进而真正掌握这门语言的程序员。 本书的目标是全面地讲解JavaScript语言，对JavaScript程序中可能用到的重要的客户端API和服务器端API提供深入的介绍。本书篇幅较长，内容非常详尽，相信认...(展开全部)"
+21,Algorithms,RobertSedgewick、KevinWayne, Addison-Wesley Professional ,https://book.douban.com/subject/4854123/,"
+9.5",294,"
+内容简介:
+Essential Information about Algorithms and Data Structures A Classic Reference  The latest version of Sedgewick,s best-selling series, reflecting an indispensable body of knowledge developed over the past several decades. Broad Coverage  Full treatment of data structures and algorithms for sorting, searching, graph processing, and string processing, including fifty algorithms e...(展开全部)"
+22,"TheC++ProgrammingLanguage,SpecialEdition:SpecialEdition(3rdEdition)",BjarneStroustrup, Addison Wesley ,https://book.douban.com/subject/1452107/,"
+9.5",172,"
+内容简介:
+-"
+23,计算机程序设计艺术（第1卷）:基本算法,[美]唐纳德·E.克努特, 国防工业出版社 ,https://book.douban.com/subject/1231933/,"
+9.5",178,"
+内容简介:
+7卷本《计算机程序设计艺术》的第1卷以基本的程序设计概念和技术开始，然后专注于信息结构——计算机内部信息的表示、数据元素之间的结构关系以及如何有效地处理它们，给出了对于模拟、数值方法、符号计算、软件和系统设计的初等应用。书中附有大量习题和答案，标明了难易程序及数学概念的使用。 此新版本增加了几十项简单且重要的算法和技术，并对有关数学预备知识作了大量修改以适应现时研究的趋势。"
+24,EffectiveC++:改善程序与设计的55个具体做法,[美]ScottMeyers, 电子工业出版社 ,https://book.douban.com/subject/1842426/,"
+9.5",1211,"
+内容简介:
+《Effective C++：改善程序与设计的55个具体做法》(中文版)(第3版)一共组织55个准则，每一条准则描述一个编写出更好的C++的方式。每一个条款的背后都有具体范例支撑。第三版有一半以上的篇幅是崭新内容，包括讨论资源管理和模板（templates）运用的两个新章。为反映出现代设计考虑，对第二版论题做了广泛的修订，包括异常（exceptions）、设计模式（design patterns）和多线程（multithreading）。 《Effective C++》的重要特征包括： ·高效的 classes、functions、templates 和inheritance hierarchies（继承体系）方面的专家级指导。 ·崭新的 TR1 标准程序库功能应用，以及与既有标准程序库组件的比较。 ·洞察 C++和其他语言（例如Java、C#、C）...(展开全部)"
+25,Code:TheHiddenLanguageofComputerHardwareandSoftware,CharlesPetzold, Microsoft Press ,https://book.douban.com/subject/1494026/,"
+9.5",436,"
+内容简介:
+Paperback Edition What do flashlights, the British invasion, black cats, and seesaws have to do with computers? In CODE, they show us the ingenious ways we manipulate language and invent new means of communicating with each other. And through CODE, we see how this ingenuity and our very human compulsion to communicate have driven the technological innovations of the past two ce...(展开全部)"
+26,计算机程序的构造和解释(原书第2版),[美]HaroldAbelson、[美]GeraldJaySussman、[美]JulieSussman, 机械工业出版社 ,https://book.douban.com/subject/1148282/,"
+9.5",2587,"
+内容简介:
+《计算机程序的构造和解释》成型于美国麻省理工学院（MIT）多年使用的一本教材，1984年出版，1996年修订为第二版。在过去的二十多年里，该书对于计算机科学的教育计划产生了深刻的影响。 在第二版中，大部分重要程序设计系统都重新修改并做过测试，包括各种解释器和编译器。作者根据其后十余年的教学实践，还对其他许多细节做了相应的修改。"
+27,汇编语言（第3版）,王爽, 清华大学出版社 ,https://book.douban.com/subject/25726019/,"
+9.5",569,"
+内容简介:
+《汇编语言(第3版)》具有如下特点：采用了全新的结构对课程的内容进行组织，对知识进行最小化分割，为读者构造了循序渐进的学习线索；在深入本质的层面上对汇编语言进行讲解；对关键环节进行深入的剖析。《汇编语言(第3版)》可用作大学计算机专业本科生的汇编教材及希望深入学习计算机科学的读者的自学教材。"
+28,算法导论,[美]ThomasH.Cormen、CharlesE.Leiserson、RonaldL.Rivest、CliffordStein, 高等教育出版社 ,https://book.douban.com/subject/1152912/,"
+9.5",943,"
+内容简介:
+《算法导论》自第一版出版以来，已经成为世界范围内广泛使用的大学教材和专业人员的标准参考手册。 这本书全面论述了算法的内容，从一定深度上涵盖了算法的诸多方面，同时其讲授和分析方法又兼顾了各个层次读者的接受能力。各章内容自成体系，可作为独立单元学习。所有算法都用英文和伪码描述，使具备初步编程经验的人也可读懂。全书讲解通俗易懂，且不失深度和数学上的严谨性。第二版增加了新的章节，如算法作用、概率分析与随机算法、线性编程等，几乎对第一版的各个部分都作了大量修订。"
+29,CLRviaC#,(美)JeffreyRichter, 清华大学出版社 ,https://book.douban.com/subject/4924165/,"
+9.5",324,"
+内容简介:
+本书针对CLR和.NET Framework 4.0进行深入、全面的探讨，并结合实例介绍了如何利用它们进行设计、开发和调试。全书5部分29章。第Ⅰ部分介绍CLR基础，第Ⅱ部分解释如何设计类型，第Ⅲ部分介绍基本类型，第Ⅳ部分以实用特性为主题，第Ⅴ部分花大量篇幅重点介绍线程处理。 通过本书的阅读，读者可以掌握CLR和.NET Framework的精髓，轻松、高效地创建高性能应用程序。"
+30,ProgrammingPearls,JonBentley, Addison-Wesley Professional ,https://book.douban.com/subject/1484451/,"
+9.5",178,"
+内容简介:
+Jon Bentley 世界著名计算机科学家，被誉为影响算法发展的十位大师之一。他先后任职于卡内基-梅隆大学（1976~1982）、贝尔实验室（1982~2001）和Avaya实验室（2001年至今）。在卡内基-梅隆大学担任教授期间，他培养了包括Tcl语言设计者John Ousterhout、Java语言设计者James Gosling、《算法导论》作者之一Charles Leiserson在内的许多计算机科学大家。2004年荣获Dr.Dobb's程序设计卓越奖。"
+31,ExpertCProgramming:DeepCSecrets,PetervanderLinden, Prentice Hall ,https://book.douban.com/subject/1784687/,"
+9.5",146,"
+内容简介:
+For software engineers and computer programmers who are writing, developing, testing, debugging software on either IBM PCs or Unix systems.  Written for experienced C programmers who want to quickly pick up some of the insights and techniques of experts and master the fine arts of ANSI C, this volume passes on the wisdom of a highly experienced C compiler writer and his colleag...(展开全部)"
+32,UNIX网络编程:第1卷:套接口API(第3版),史蒂文斯、芬纳、鲁道夫, 清华大学出版社 ,https://book.douban.com/subject/1500149/,"
+9.4",1038,"
+内容简介:
+《UNIX网络编程》(第1卷)(套接口API第3版)第1版和第2版由已故UNIX网络专家W. Richard Stevens博士独自编写。《UNIX网络编程》(第1卷)(套接口API第3版)是3版，由世界著名网络专家Bill Fenner和Andrew M. Rudoff执笔，根据近几年网络技术的发展，对上一版进行全面修订，增添了IPv6的更新过的信息、SCTP协议和密钥管理套接口的内容，删除了X/Open传输接口的内容。 《UNIX网络编程》(第1卷)(套接口API第3版)内容详尽且具权威性，几乎每章都提供精选的习题，是计算机和网络专业高年级本科生和研究生的首选教材，《UNIX网络编程》(第1卷)(套接口API第3版)也可作为网络研究和开发人员的自学教材和参考书。"
+33,UNIX环境高级编程:第2版,W.RichardStevens、StephenA.Rago, 人民邮电出版社 ,https://book.douban.com/subject/1788421/,"
+9.4",2387,"
+内容简介:
+本书是被誉为UNIX编程“圣经”的Advanced Programming in the UNIX Environment一书的更新版。在本书第1版出版后的十几年中，UNIX行业已经有了巨大的变化，特别是影响UNIX编程接口的有关标准变化很大。本书在保持了前一版风格的基础上，根据最新的标准对内容进行了修订和增补，反映了最新的技术发展。书中除了介绍UNIX文件和目录、标准I/O库、系统数据文件和信息、进程环境、进程控制、进程关系、信号、线程、线程控制、守护进程、各种I/O、进程间通信、网络IPC、伪终端等方面的内容，还在此基础上介绍了多个应用示例，包括如何创建数据库函数库以及如何与网络打印机通信等。此外，还在附录中给出了函数原型和部分习题的答案。     本书内容权威，概念清晰，阐述精辟，对于所有层次UNIX程序员都是一本不可或缺的参考书。"
+34,TheC++ProgrammingLanguage:4thEdition,BjarneStroustrup, Addison-Wesley Professional ,https://book.douban.com/subject/7053134/,"
+9.4",110,"
+内容简介:
+C+11 has arrived: thoroughly master it, with the definitive new guide from C++ creator Bjarne Stroustrup, C++ Programming Language, Fou rth Edition! The brand-new edition of the world's most trusted and widely read guide to C++, it has been comprehensively updated for the long-awaited C++11 standard. Extensively rewritten to present the C++11 language, standard library, and key...(展开全部)"
+35,TheLinuxProgrammingInterface:ALinuxandUNIXSystemProgrammingHandbook,MichaelKerrisk, No Starch Press ,https://book.douban.com/subject/4292217/,"
+9.4",227,"
+内容简介:
+The Linux Programming Interface describes the Linux API (application programming interface)-the system calls, library functions, and other low-level interfaces that are used, directly or indirectly, by every program that runs on Linux. Programs that explicitly use these interfaces are commonly called system programs, and include applications such as shells, editors, windowing s...(展开全部)"
+36,CPrimerPlus（第6版）中文版:第六版,普拉达(StephenPrata), 人民邮电出版社 ,https://book.douban.com/subject/26792521/,"
+9.5",1208,"
+内容简介:
+《C Primer Plus（第6版）中文版》详细讲解了C语言的基本概念和编程技巧。 《C Primer Plus（第6版）中文版》共17章。第1、2章介绍了C语言编程的预备知识。第3~15章详细讲解了C语言的相关知识，包括数据类型、格式化输入/输出、运算符、表达式、语句、循环、字符输入和输出、函数、数组和指针、字符和字符串函数、内存管理、文件输入输出、结构、位操作等。第16章、17章介绍C预处理器、C库和高级数据表示。本书以完整的程序为例，讲解C语言的知识要点和注意事项。每章末设计了大量复习题和编程练习，帮助读者巩固所学知识和提高实际编程能力。附录给出了各章复习题的参考答案和丰富的参考资料。 《C Primer Plus（第6版）中文版》可作为C语言的教材，适用于需要系统学习C语言的初学者，也适用于巩固C语言知识或希望进一步提高编程技术的程序员。"
+37,R语言入门与实践,[美]GarrettGrolemund, 人民邮电出版社 ,https://book.douban.com/subject/26808217/,"
+9.4",109,"
+内容简介:
+本书精心策划了三个虚拟项目，将数据科学家必需的专业技能融合其中，教会读者如何将数据存储到计算机内存中，如何在必要的时候转换内存中的数据值，如何用R编写自己的程序并将其用于数据分析和模拟运行。读者将跟随世界一流的RStudio培训师掌握宝贵的编程技能，并借助这些技能成为优秀的数据科学家。"
+38,计算机程序设计艺术（第1卷）:基本算法,[美]DonaldE.Knuth, 清华大学出版社 ,https://book.douban.com/subject/1130500/,"
+9.4",491,"
+内容简介:
+第1卷首先介绍编程的基本概念和技术，然后详细讲解信息结构方面的内容，包括信息在计算机内部的表示方法、数据元素之间的结构关系，以及有效的信息处理方法。此外，书中还描述了编程在模拟、数值方法、符号计算、软件与系统设计等方面的初级应用。此第3版增加了数十项简单但重要的算法和技术，并根据当前研究发展趋势在数学预备知识方面做了大量修改。"
+39,Ruby元编程,[意]PaoloPerrotta, 华中科技大学出版社 ,https://book.douban.com/subject/7056800/,"
+9.4",517,"
+内容简介:
+《Ruby元编程》以案例形式循序渐进讲解Ruby对象模型原理和高级应用技巧，堪称动态语言的设计模式。书中讲述的各种Ruby编程模式，完全可以应用于其他动态语言（甚至静态语言）。本书不仅适合Ruby程序员阅读，也适合对动态编程 语言和面向对象编程感兴趣的读者阅读。所有对程序设计理论感兴趣的人都能从中获益。Ruby之父松本行弘作序推荐。"
+40,EffectiveModernC++:42SpecificWaystoImproveYourUseofC++11andC++14,ScottMeyers, O'Reilly Media ,https://book.douban.com/subject/25923597/,"
+9.4",408,"
+内容简介:
+Learn how to program expertly with C++ with this practical book from Scott Meyers, one of the world's foremost authorities on this systems programming language. Scott Meyers takes some of the most difficult pieces of C++ code and unfurls them so that you can see how to manipulate your own project code. This is the first book to contain content written with the C++14 standard. T...(展开全部)"
+41,C++Primer中文版（第5版）,[美]StanleyB.Lippman、[美]JoséeLajoie、[美]BarbaraE.Moo, 电子工业出版社 ,https://book.douban.com/subject/25708312/,"
+9.4",2438,"
+内容简介:
+这本久负盛名的 C++ 经典教程，时隔八年之久，终迎来史无前例的重大升级。除令全球无数程序员从中受益，甚至为之迷醉的——C++ 大师 Stanley B. Lippman 的丰富实践经验，C++标准委员会原负责人 Josée Lajoie 对C++标准的深入理解，以及C+ + 先驱 Barbara E. Moo 在 C++教学方面的真知灼见外，更是基于全新的 C++11标准进行了全面而彻底的内容更新。非常难能可贵的是，本书所有示例均全部采用 C++11 标准改写，这在经典升级版中极其罕见——充分体现了 C++ 语言的重大进展及其全面实践。书中丰富的教学辅助内容、醒目的知识点提示，以及精心组织的编程示范，让这本书在 C++ 领域的权威地位更加不可动摇。无论是初学者入门，或是中、高级程序员提升，本书均为不容置疑的首选。"
+42,编程珠玑（英文版・第2版）,[美]JonBentley, 人民邮电出版社 ,https://book.douban.com/subject/4924297/,"
+9.4",124,"
+内容简介:
+多年以来，当程序员们推选出最心爱的计算机图书时，《编程珠玑》总是位列前列。正如自然界里珍珠出自细沙对牡蛎的磨砺，计算机科学大师Jon Bentley以其独有的洞察力和创造力，从磨砺程序员的实际问题中凝结出一篇篇不朽的编程“珠玑”。这些文章是《ACM通讯》最受欢迎的专栏文章，最终结集为两部书出版。本书为第一卷，主要讨论计算机科学中最本质的问题：如何正确选择和高效地实现算法。 在书中，作者选取许多具有典型意义的复杂编程和算法问题，生动描绘了历史上众多大师们在探索解决方案中发生的轶事、走过的弯路和不断精益求精的历程，引导读者开展创新性的思考。书中透彻阐述和总结了许多独特而精妙的设计原则、思考和解决问题的方法以及实用程序设计技巧。解决方案的代码均以C/C++语言编写，不仅有趣，而且有很大的实战示范意义。每章后所附习题极具挑战性和启发性，书末给出了简洁的解答。...(展开全部)"
+43,MetaprogrammingRuby:ProgramLiketheRubyPros,PaoloPerrotta, Pragmatic Bookshelf ,https://book.douban.com/subject/4086938/,"
+9.4",157,"
+内容简介:
+Everyone in the Ruby world seems to be talking about metaprogramming--how you can use it to remove duplication in your code and write elegant, beautiful programs. Now you can get in on the action as well. This book describes metaprogramming as an essential component of Ruby. Once you understand the principles of Ruby, including the object model, scopes, and eigenclasses, you're...(展开全部)"
+44,Linux/UNIX系统编程手册,MichaelKerrisk、孙剑, 人民邮电出版社 ,https://book.douban.com/subject/25809330/,"
+9.4",381,"
+内容简介:
+《linux/unix系统编程手册(上、下册)》是介绍linux与unix编程接口的权威著作。linux编程资深专家michael kerrisk在书中详细描述了linux/unix系统编程所涉及的系统调用和库函数，并辅之以全面而清晰的代码示例。《linux/unix系统编程手册(上、下册)》涵盖了逾500个系统调用及库函数，并给出逾200个程序示例，另含88张表格和115幅示意图。 《linux/unix系统编程手册(上、下册)》总共分为64章，主要讲解了高效读写文件，对信号、时钟和定时器的运用，创建进程、执行程序，编写安全的应用程序，运用posix线程技术编写多线程程序，创建和使用共享库，运用管道、消息队列、共享内存和信号量技术来进行进程间通信，以及运用套接字api编写网络应用等内容。 《linux/unix系统编程手册(上、下册)》在汇聚大批 ...(展开全部)"
+45,C语言程序设计:现代方法,K.N.King, 人民邮电出版社 ,https://book.douban.com/subject/4279678/,"
+9.4",517,"
+内容简介:
+时至今日， C语言仍然是计算机领域的通用语言之一，但今天的 C语言已经和最初的时候大不相同了。本书最主要的一个目的就是通过一种“现代方法”来介绍 C语言，书中强调标准 C，强调软件工程，不再强调“手工优化”。这一版中紧密结合了 C99标准，并与 C89标准进行对照，补充了 C99中的最新特性。本书分为 C语言的基础特性、 C语言的高级特性、 C语言标准库和参考资料 4个部分。每章末尾都有一个“问与答”小节给出一系列与该章内容相关的问题及答案，此外还包含适量的习题。 本书是为大学本科阶段的 C语言课程编写的教材，同时也非常适合作为其他课程的辅助用书。"
+46,流畅的Python,[巴西]LucianoRamalho, 人民邮电出版社 ,https://book.douban.com/subject/27028517/,"
+9.4",1043,"
+内容简介:
+【技术大咖推荐】 “很荣幸担任这本优秀图书的技术审校。这本书能帮助很多中级Python程序员掌握这门语言，我也从中学到了相当多的知识！”——Alex Martelli，Python软件基金会成员 “对于想要扩充知识的中级和高级Python程序员来说，这本书是充满了实用编程技巧的宝藏。”——Daniel Greenfeld和Audrey Roy Greenfeld，Two Scoops of Django作者 【本书特色】 本书由奋战在Python开发一线近20年的Luciano Ramalho执笔，Victor Stinner、Alex Martelli等Python大咖担纲技术审稿人，从语言设计层面剖析编程细节，兼顾Python 3和Python 2，告诉你Python中不亲自动手实践就无法理解的语言陷阱成因和解决之道，教你写出风格地道的Pytho...(展开全部)"
+47,CLRviaC#,JeffreyRichter, 清华大学出版社 ,https://book.douban.com/subject/26285940/,"
+9.4",124,"
+内容简介:
+《CLR via C#（第4版）》针对CLR和.NET Framework 4.5进行深入、全面的探讨，并结合实例介绍了如何利用它们进行设计、开发和调试。全书5部分共29章。第Ⅰ部分介绍CLR基础，第Ⅱ部分解释如何设计类型，第Ⅲ部分介绍基本类型，第Ⅳ部分以核心机制为主题，第Ⅴ部分重点介绍线程处理。 通过本书的阅读，读者可以掌握CLR和.NET Framework的精髓，轻松、高效地创建高性能应用程序。"
+48,"RforDataScience:Visualize,Model,Transform,Tidy,andImportData",HadleyWickham、GarrettGrolemund, O'Reilly Media ,https://book.douban.com/subject/26757974/,"
+9.4",255,"
+内容简介:
+http://r4ds.had.co.nz/"
+49,TheNatureofCode:SimulatingNaturalSystemswithProcessing,DanielShiffman, The Nature of Code ,https://book.douban.com/subject/20452058/,"
+9.4",138,"
+内容简介:
+How can we capture the unpredictable evolutionary and emergent properties of nature in software? How can understanding the mathematical principles behind our physical world help us to create digital worlds? This book focuses on a range of programming strategies and techniques behind computer simulations of natural systems, from elementary concepts in mathematics and physics to ...(展开全部)"
+50,程序设计实践,[美]BrianW.Kernighan、[美]RobPike, 机械工业出版社 ,https://book.douban.com/subject/1096711/,"
+9.4",109,"
+内容简介:
+Brian W.Kernighan和Rob Pike在朗讯科技贝尔实验室的计算机科学研究中心工作。Brian Kernighan是Addison-Wesley的“专业计算丛书”顾问编辑，也是《C程序设计语言》的合著者之一（与Dennis M.Ritchie合作）。Rob Pike是Plan 9和Inferno操作系统的主要结构设计与实现者，他的主要研究兴趣是如何帮助人们更容易地开发软件。"
+51,TheAWKProgrammingLanguage,AlfredV.Aho、BrianW.Kernighan、PeterJ.Weinberger、柯必德, Pearson ,https://book.douban.com/subject/1876898/,"
+9.4",134,"
+内容简介:
+Originally developed by Alfred Aho, Brian Kernighan, and Peter Weinberger in 1977, AWK is a pattern-matching language for writing short programs to perform common data-manipulation tasks. In 1985, a new version of the language was developed, incorporating additional features such as multiple input files, dynamic regular expressions, and user-defined functions. This new version ...(展开全部)"
+52,你不知道的JavaScript（上卷）,[美]KyleSimpson, 人民邮电出版社 ,https://book.douban.com/subject/26351021/,"
+9.4",1058,"
+内容简介:
+JavaScript语言有很多复杂的概念，但却用简单的方式体现出来（比如回调函数），因此，JavaScript开发者无需理解语言内部的原理，就能编写出功能全面的程序；就像收音机一样，你无需理解里面的管子和线圈都是做什么用的，只要会操作收音机上的按键，就可以收听你喜欢的节目。然而，JavaScript的这些复杂精妙的概念才是语言的精髓，即使是经验丰富的JavaScript开发者，如果没有认真学习也无法真正理解语言本身的特性。正是因为绝大多数人不求甚解，一遇到出乎意料的行为就认为是语言本身有缺陷，进而把相关的特性加入黑名单，久而久之就排除了这门语言的多样性，人为地使它变得不完整、不安全。 “你不知道的JavaScript”系列就是要让不求甚解的JavaScript开发者迎难而上，深入语言内部，弄清楚JavaScript每一个零部件的用途。本书介绍了该系列...(展开全部)"
+53,C++Primer,StanleyB.Lippman、JoséeLajoie、BarbaraE.Moo, Addison Wesley ,https://book.douban.com/subject/10505113/,"
+9.4",220,"
+内容简介:
+Bestselling Programming Tutorial and Reference Completely Rewritten for the New C++11 Standard  Now fully updated and recast for the newly released C++11 standard, this authoritative and comprehensive introduction to C++ will help you to learn the language fast, and to use it in modern, highly effective ways. Highlighting today’s best practices, the authors show how to use both...(展开全部)"
+54,计算之魂:计算科学品位和认知进阶,吴军, 人民邮电出版社 ,https://book.douban.com/subject/35641088/,"
+9.4",166,"
+内容简介:
+对计算机科学的掌握程度，决定了一个计算机行业从业者能走多远。在本书中，作者将人文历史与计算机科学相结合，通过一些具体的例题，分10个主题系统地讲解了计算机科学的精髓。这些例题是作者面试求职者时用到的考题，或是头部计算机公司和金融企业的面试题。 作者在书中结合自己对计算机工程师的五级分级标准，详细讲解了每类题目不同层次的解决方法、不同水平的人大约能思考到什么样的深度，深度阐述题目背后的计算机科学精髓。通过对比优化解题思路，读者不仅可以衡量自己的水平，在职业的发展道路上走得更快，更可以深刻理解并掌握计算机科学和计算思维，逐渐把握计算机科学这门艺术，获得重复性成功。 对于所有有志于了解或学习科技，特别是计算机科学的人来讲，本书不仅有助于了解计算机科学，更有助于了解 IT 产业的技术特点、培养一些特殊的思维方式、掌握信息时代特殊的做事方法，通过具体的例子，从...(展开全部)"
+55,C程序设计语言（第2版·新版）,[美]BrianW.Kernighan、[美]DennisM.Ritchie, 机械工业出版社 ,https://book.douban.com/subject/1139336/,"
+9.4",4952,"
+内容简介:
+在计算机发展的历史上，没有哪一种程序设计语言像C语言这样应用广泛。本书作者是C语言的设计者之一Dennis M. Ritchie和著名计算机科学家Brian W. Kernighan合著的一本介绍C语言的权威经典著作。我们现在见到的大量论述C语言程序设计的教材和专著均以此书为蓝本。 原著第1版中介绍的C语言成为后来广泛使用的C语言版本——标准C的基础。人们熟知的“hello,World""程序就是由本书首次引入的，现在，这一程序已经成为众多程序设计语言入门的第一课。原著第2版根据1987年制定的ANSIC标准做了适当的修订．引入了最新的语言形式，并增加了新的示例，通过简洁的描述、典型的示例，作者全面、系统、准确地讲述了C语言的各个特性以及程序设计的基本方法。 对于计算机从业人员来说，本书是一本必读的程序设计语言方面的参考书。"
+56,TheGoProgrammingLanguage,BrianW.Kernighan、AlanDonovan, Addison-Wesley Professional ,https://book.douban.com/subject/26337545/,"
+9.4",379,"
+内容简介:"
+57,算法（第4版）,[美]RobertSedgewick、[美]KevinWayne, 人民邮电出版社 ,https://book.douban.com/subject/19952400/,"
+9.3",1683,"
+内容简介:
+本书作为算法领域经典的参考书，全面介绍了关于算法和数据结构的必备知识，并特别针对排序、搜索、图处理和字符串处理进行了论述。第4版具体给出了每位程序员应知应会的50个算法，提供了实际代码，而且这些 Java 代码实现采用了模块化的编程风格，读者可以方便地加以改造。配套网站 algs4.cs.princeton.edu 提供了本书内容摘要以及相关代码、测试数据、编程练习、教学课件等资源。"
+58,算法导论（原书第2版）,[美]ThomasH.Cormen、CharlesE.Leiserson、RonaldL.Rivest、CliffordStein, 机械工业出版社 ,https://book.douban.com/subject/1885170/,"
+9.3",5205,"
+内容简介:
+这本书深入浅出，全面地介绍了计算机算法。对每一个算法的分析既易于理解又十分有趣，并保持了数学严谨性。本书的设计目标全面，适用于多种用途。涵盖的内容有：算法在计算中的作用，概率分析和随机算法的介绍。书中专门讨论了线性规划，介绍了动态规划的两个应用，随机化和线性规划技术的近似算法等，还有有关递归求解、快速排序中用到的划分方法与期望线性时间顺序统计算法，以及对贪心算法元素的讨论。此书还介绍了对强连通子图算法正确性的证明，对哈密顿回路和子集求和问题的NP完全性的证明等内容。全书提供了900多个练习题和思考题以及叙述较为详细的实例研究。"
+59,算法（英文版·第4版）,[美]RobertSedgewick、[美]KevinWayne, 人民邮电出版社 ,https://book.douban.com/subject/10432347/,"
+9.3",768,"
+内容简介:
+本书作为算法领域经典的参考书，全面介绍了关于算法和数据结构的必备知识，并特别针对排序、搜索、图处理和字符串处理进行了论述。第4版具体给出了每位程序员应知应会的50个算法，提供了实际代码，而且这些Java代码实现采用了模块化的编程风格，读者可以方便地加以改造。本书配套网站提供了本书内容的摘要及更多的代码实现、测试数据、练习、教学课件等资源。 本书适合用作大学教材或从业者的参考书。"
+60,C++Primer,StanleyB.Lippman、JoséeLajoie、BarbaraE.Moo," 14 February, 2005 ",https://book.douban.com/subject/1415354/,"
+9.3",210,"
+内容简介:
+新的组织结构，更好的帮助循序渐进的全面了解标准C＋＋"
+61,RubyonRails3Tutorial:LearnRailsbyExample,MichaelHartl, Addison-Wesley Professional ,https://book.douban.com/subject/5263109/,"
+9.3",121,"
+内容简介:
+“Ruby on Rails™ 3 Tutorial: Learn Rails by Example by Michael Hartl has become a must read for developers learning how to build Rails apps.” —Peter Cooper, Editor of Ruby Inside  Using Rails 3, developers can build web applications of exceptional elegance and power. Although its remarkable capabilities have made Ruby on Rails one of the world’s most popular web development fram...(展开全部)"
+62,敏捷软件开发:原则模式和实践(C#版),马丁, 人民邮电出版社 ,https://book.douban.com/subject/2347790/,"
+9.3",123,"
+内容简介:
+《敏捷软件开发:原则模式和实践(C#版)》不仅是一部深入浅出、生动易懂的面向对象原则与设计模式著作。而且还是一部通俗的敏捷方法导引书和快速实用的LJML教程。通过《敏捷软件开发:原则模式和实践(C#版)》你会发现，许多以前看起来非常枯燥费解的概念，忽然间都豁然开朗。变得鲜活生动起来。 C#版与此前的Java版相比，主要的更新包括加强了UML的介绍章节。使其更加贴近实战；增加了对MVP模式的介绍等。"
+63,EffectiveJava:英文版，第2版,JoshuaBloch, 人民邮电出版社 ,https://book.douban.com/subject/3998727/,"
+9.3",105,"
+内容简介:
+本书介绍了在java编程中78条经典的、实用性极高的经验规则，这些经验规则可以帮助开发人员来解决每天都有可能面对的大多数问题。书中对java平台设计专家所使用的技术的介绍，揭示了如何事半功倍地的编写清晰、健壮和高效的代码。本书是经典图书effective java的第2版，涵盖了java 5中的重要变化，并删除了一些过时的内容。本书所介绍的每条规则，都以简明易懂的语言来阐释，并通过示例代码进一步加以说明。 本书内容翔实，层次分明，是一本可以帮助技术人员更深层次理解java的参考用书。"
+64,重构（第2版）:改善既有代码的设计,[美]MartinFowler, 人民邮电出版社 ,https://book.douban.com/subject/30468597/,"
+9.3",338,"
+内容简介:
+本书是经典著作《重构》出版20年后的更新版。书中清晰揭示了重构的过程，解释了重构的原理和实践方式，并给出了何时以及何地应该开始挖掘代码以求改善。书中给出了60多个可行的重构，每个重构都介绍了一种经过验证的代码变换手法的动机和技术。本书提出的重构准则将帮助开发人员一次一小步地修改代码，从而减少了开发过程中的风险。 本书适合软件开发人员、项目管理人员等阅读，也可作为高等院校计算机及相关专业师生的参考读物。"
+65,C语言程序设计现代方法:现代方法,K.N.King, 人民邮电出版社 ,https://book.douban.com/subject/2280547/,"
+9.3",234,"
+内容简介:
+《C语言程序设计现代方法》最主要的一个目的就是通过一种“现代方法”来介绍C语言，实现客观评价C语言、强调标准化C语言、强调软件工程、不再强调“手工优化”、强调与c++语言的兼容性的目标。《C语言程序设计现代方法》分为C语言的基础特性。C语言的高级特性、C语言标准库和参考资料4个部分。每章都有“问与答”小节，给出一系列与本章内容相关的问题及其答案，此外还包含适量的习题。"
+66,TheLittleSchemer-4thEdition,DanielP.Friedman、MatthiasFelleisen, The MIT Press ,https://book.douban.com/subject/1632977/,"
+9.3",571,"
+内容简介:
+This delightful book leads you through the basic elements of programming in Scheme (a Lisp dialect) via a series of dialogues with well-chosen questions and exercises. Besides teaching Scheme, The Little Schemer teaches the reader how to think about computation. The authors focus on ten essential concepts of thinking about how to compute and demonstrate how to apply these conce...(展开全部)"
+67,编码的奥秘,CharlesPetzold,、孙燕妮、等 ,https://book.douban.com/subject/1024570/,"
+9.3",1432,"
+内容简介:
+渴望交流是大多数人的天性。在本书中，“编码”通常指一种在人和机器之间进行信息转换的系统。换句话说、编码即是交流。有时我们将编码看得很神秘，其实大多数编码并非都是这样。大多数的编码都需要被很好地理解，因为它们是人类交流的基础。――《编码的奥秘》 手电筒、英国人入侵、黑色的 猫和跷跷板与计算机有什么必然联系？本书向我们展示了使用语言的一些直观方法并创造新的方法来进行相互之间的交流。此书使我们明白了这种创造性――以及我们人类对交流的迫切需求――已经促进了过去两个世纪的革新 在本书中，作者Charles Petzold用常见的对象和诸如布莱叶盲文、摩尔斯电码之类大家熟悉的语言系统，为那些曾经想知道计算机和其他智能机器内部“生命”奥秘的人们编排了一个生动的叙述。 本书由灵活的图解和生动的故事组成。沿着作者的这种介绍思路，通过本书的学习你将会发现你已经获得了一个...(展开全部)"
+68,EffectiveC++:55SpecificWaystoImproveYourProgramsandDesigns,ScottMeyers, Addison-Wesley Professional ,https://book.douban.com/subject/1453373/,"
+9.3",927,"
+内容简介:
+“Every C++ professional needs a copy of  Effective C++ . It is an absolute must-read for anyone thinking of doing serious C++ development. If you’ve never read  Effective C++  and you think you know everything about C++, think again.” —  Steve Schirripa,  Software Engineer, Google    “C++ and the C++ community have grown up in the last fifteen years, and the third edition of  E...(展开全部)"
+69,OnLISP:AdvancedTechniquesforCommonLISP,PaulGraham," 09 September, 1993 ",https://book.douban.com/subject/1432683/,"
+9.3",114,"
+内容简介:
+On Lisp is a comprehensive study of advanced Lisp techniques, with bottom-up programming as the unifying theme. It gives the first complete description of macros and macro applications. The book also covers important subjects related to bottom-up programming, including functional programming, rapid prototyping, interactive development, and embedded languages. The final chapter ...(展开全部)"
+70,算法导论（原书第3版）,ThomasH.Cormen、CharlesE.Leiserson、RonaldL.Rivest、CliffordStein, 机械工业出版社 ,https://book.douban.com/subject/20432061/,"
+9.3",1339,"
+内容简介:
+在有关算法的书中，有一些叙述非常严谨，但不够全面；另一些涉及了大量的题材，但又缺乏严谨性。本书将严谨性和全面性融为一体，深入讨论各类算法，并着力使这些算法的设计和分析能为各个层次的读者接受。全书各章自成体系，可以作为独立的学习单元；算法以英语和伪代码的形式描述，具备初步程序设计经验的人就能看懂；说明和解释力求浅显易懂，不失深度和数学严谨性。 全书选材经典、内容丰富、结构合理、逻辑清晰，对本科生的数据结构课程和研究生的算法课程都是非常实用的教材，在IT专业人员的职业生涯中，本书也是一本案头必备的参考书或工程实践手册。 第3版的主要变化： 新增了van Emde Boas树和多线程算法，并且将矩阵基础移至附录。 修订了递归式（现在称为“分治策略”）那一章的内容，更广泛地覆盖分治法。 移除两章很少讲授的内容：二项堆和排序网络。 修订了动态规划和贪心算法相关...(展开全部)"
+71,ThePracticeofProgramming,BrianW.Kernighan、RobPike, Addison-Wesley ,https://book.douban.com/subject/1459281/,"
+9.3",171,"
+内容简介:
+With the same insight and authority that made their book The Unix Programming Environment a classic, Brian Kernighan and Rob Pike have written The Practice of Programming to help make individual programmers more effective and productive. This book is full of practical advice and real-world examples in C, C++, Java, and a variety of special-purpose languages. Kernighan and Pike ...(展开全部)"
+72,代码大全（第2版）,[美]史蒂夫·迈克康奈尔, 电子工业出版社 ,https://book.douban.com/subject/1477390/,"
+9.3",4101,"
+内容简介:
+第2版的《代码大全》是著名IT畅销书作者史蒂夫·迈克康奈尔11年前的经典著作的全新演绎：第2版不是第一版的简单修订增补，而是完全进行了重写；增加了很多与时俱进的内容。这也是一本完整的软件构建手册，涵盖了软件构建过程中的所有细节。它从软件质量和编程思想等方面论述了软件构建的各个问题，并详细论述了紧跟潮流的新技术、高屋建瓴的观点、通用的概念，还含有丰富而典型的程序示例。这本书中所论述的技术不仅填补了初级与高级编程技术之间的空白，而且也为程序员们提供了一个有关编程技巧的信息来源。这本书对经验丰富的程序员、技术带头人、自学的程序员及几乎不懂太多编程技巧的学生们都是大有裨益的。可以说，无论是什么背景的读者，阅读这本书都有助于在更短的时间内、更容易地写出更好的程序。"
+73,代码大全:(第2版)(英文版),（美）SteveMcConnell, 电子工业出版社 ,https://book.douban.com/subject/1951158/,"
+9.3",390,"
+内容简介:
+《代码大全(第2版)(英文版)》由电子工业出版社出版。"
+74,Java编程思想:英文版·第4版,埃克尔, 机械工业出版社 ,https://book.douban.com/subject/2061172/,"
+9.3",183,"
+内容简介:
+《Java编程思想(英文版•第4版)》内容简介：特色：1.适合初学者与专业人员的经典的面向对象的叙述方式；为更新的Java SE5/6的相关内容增加了新的示例和章节。2.测验框架显示程序输出。3.设计模式贯穿于众多示例中：适配器、桥接器、职责链、命令、装饰器、外观、工厂方法、享元、点名、数据传输对象、空对象、代理、单例、状态、策略、模板方法以及访问者。4.为数据传输引入了XML；为用户界面引入了SWT和Flash。5.重新撰写了有关并发的章节，使您能牢牢地掌握线程的相关知识。6.专门为第4版以及Java SE5/6重写了在700多个编译文件中的500多个程序。7.支持网站包含了所有源代码、带注解的解决方案指南、网络日志以及多媒体学习资料。8.完全覆盖了所有基础知识，同时也论述了高级特性。9.详细彻底地阐述了面向对象原理。10.在线可获得Java讲座C...(展开全部)"
+75,EffectiveJava:SecondEdition:Java,JoshuaBloch, Addison-Wesley ,https://book.douban.com/subject/2696119/,"
+9.3",293,"
+内容简介:
+Written for the working Java developer, Joshua Bloch's Effective Java Programming Language Guide provides a truly useful set of over 50 best practices and tips for writing better Java code. With plenty of advice from an indisputable expert in the field, this title is sure to be an indispensable resource for anyone who wants to get more out of their code. As a veteran developer ...(展开全部)"
+76,汇编语言（第2版）,王爽, 清华大学出版社 ,https://book.douban.com/subject/3037562/,"
+9.3",1258,"
+内容简介:
+《汇编语言(第2版)》是各种CPU提供的机器指令的助记符的集合，人们可以用汇编语言直接控制硬件系统进行工作。汇编语言是很多相关课程(如数据结构、操作系统、微机原理等)的重要基础。为了更好地引导、帮助读者学习汇编语言，作者以循序渐进的思想精心创作了《汇编语言(第2版)》。《汇编语言(第2版)》具有如下特点：采用了全新的结构对课程的内容进行组织，对知识进行最小化分割，为读者构造了循序渐进的学习线索；在深入本质的层面上对汇编语言进行讲解；对关键环节进行深入的剖析。"
+77,OnJava8,BruceEckel, MindView LLC ,https://book.douban.com/subject/30217317/,"
+9.3",104,"
+内容简介:
+NOTE: Although the book refers to the web site www.OnJava8.com, that site is not yet live. The examples are freely available at https://github.com/BruceEckel/OnJava8-Examples. On Java 8 is only available as an eBook, and only via Google Play Books. Any other source or delivery mechanism is illegitimate. This book is far too large to publish as a single print volume, and my inte...(展开全部)"
+78,R语言实战（第2版）,[美]RobertI.Kabacoff, 人民邮电出版社 ,https://book.douban.com/subject/26785199/,"
+9.3",339,"
+内容简介:
+本书注重实用性，是一本全面而细致的R指南，高度概括了该软件和它的强大功能，展示了使用的统计示例，且对于难以用传统方法处理的凌乱、不完整和非正态的数据给出了优雅的处理方法。作者不仅仅探讨统计分析，还阐述了大量探索和展示数据的图形功能。新版做了大量更新和修正，新增了近200页内容，介绍数据挖掘、预测性分析和高级编程。"
+79,YouDon'tKnowJS:Scope&Closures,KyleSimpson, O'Reilly Media ,https://book.douban.com/subject/25883834/,"
+9.3",108,"
+内容简介:
+作者简介： Kyle Simpson 推崇开放的互联网，对JavaScript、HTML5、实时/端对端通信和Web性能有深入研究。他是技术书作家、技术培训师、讲师和开源社区的活跃成员。 译者简介： 赵望野 前端工程师，前端基础技术组leader，曾经负责豌豆荚2.0的前端架构设计和主要开发工作，目前负责Front-end Technical Infrastructure的建设。新浪微博@赵望野。负责本书第一部分“作用域和闭包”的翻译。 梁杰 北京航空航天大学计算机科学与技术专业大四学生。热爱JavaScript、Python，热爱开源，喜欢做各种各样有趣的事情。负责本书第二部分“this和对象原型”的翻译。"
+80,PythonCookbook,DavidBeazley、BrianK.Jones, O'Reilly Media ,https://book.douban.com/subject/20491078/,"
+9.3",128,"
+内容简介:
+Portable, powerful, and a breeze to use, Python is the popular open source object-oriented programming language used for both standalone programs and scripting applications. Completely updated for Python 3, the recipes in this book include: Data structures and algorithms  Strings and text  Dates and times  Metaprogramming  Testing  With scores of practical examples and pertinen...(展开全部)"
